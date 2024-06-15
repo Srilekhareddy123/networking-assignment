@@ -23,7 +23,7 @@ Prerequisites
 
 - sri.yml`: Ansible playbook for deploying Docker containers.
 - `README.md`: This file, providing an overview of the repository and instructions.
-- `network_diagram.png`: Network diagram illustrating the setup.
+  
 
  Instructions
 
